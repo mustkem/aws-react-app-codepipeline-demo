@@ -41,6 +41,7 @@ const Counter = () => {
 
   return (
     <div>
+      Test
       <CounterValue data-testid="counter-value">Count: {counter}</CounterValue>
       <ButtonRow>
         <Button onClick={() => dispatch(-2)}>-2</Button>
