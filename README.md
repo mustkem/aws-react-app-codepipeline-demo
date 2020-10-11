@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+This app is hosted on aws. Find the link below:
+http://code-pipeline-demo-0.s3-website.us-east-2.amazonaws.com/
+
 ## Development
 ### Redux
 This package is used for state management.
